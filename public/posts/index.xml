@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>gönderiler on ciddikedi</title>
+    <link>https://ciddikedi.com/posts/</link>
+    <description>Recent content in gönderiler on ciddikedi</description>
+    <image>
+      <title>ciddikedi</title>
+      <url>https://ciddikedi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ciddikedi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.6</generator>
+    <language>tr</language>
+    <lastBuildDate>Sun, 23 Jun 2024 10:38:29 +0300</lastBuildDate>
+    <atom:link href="https://ciddikedi.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Synology DS423&#43; incelemesi</title>
+      <link>https://ciddikedi.com/posts/ds423plus/</link>
+      <pubDate>Sun, 23 Jun 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/ds423plus/</guid>
+      <description>Giriş Verinin önemi konusunda herkes hemfikirdir. Klişe olan bu söz özellikle benim gibi disk arızaları sebebiyle defalarca veri kaybeden kullanıcılar için vurgulamak istediğim noktayı açıkça ortaya çıkarıyor. Bu ve benzer problemlere karşı amatör olarak ikinci bir konuma yedeklerimi almaya başlasam da verilerin büyüklüğü ve karmaşıklığı arttıkça kontrol edilemez noktaya gelmeye başladı. Tüm bu işleri çok daha basit ve her yerden ulaşılabilecek şekilde yapmak için NAS kutularına merak saldım. Çöp olarak nitelendireceğim Zyxel ve Netgear (üzgünüm sevgili marka temsilcileri) kutuları deneyimledikten sonra bu işin Apple&amp;rsquo;ı diyebileceğim Synology cihazlara yöneldim.</description>
+    </item>
+    <item>
+      <title>Libreboot ile özgürlüğün sınırlarını zorlamak</title>
+      <link>https://ciddikedi.com/posts/libreboot/</link>
+      <pubDate>Wed, 05 Jun 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/libreboot/</guid>
+      <description>Giriş Daha fazla açık kaynak kodlu ve özgür olma yarışının son noktası ne olabilir? Günümüzde bilgisayarlarımızın güvenliği ve özgürlüğü, teknoloji kullanıcıları için her zamankinden daha büyük bir önem taşıyor. Çoğu zaman bilgisayarların BIOS yazılımları kapalı kaynak kodlu ve üreticilerin kontrolü altında oluyor. Bu bağımlılık hem güvenlik açıkları hem de gizlilik endişeleri yaratabiliyor. İşte bu noktada Libreboot devreye giriyor. Libreboot, özgür ve açık kaynaklı bir BIOS yazılımı alternatifidir. Kullanıcılara tam kontrol, şeffaflık ve güvenlik sunarak bilgisayarlarının potansiyelini en üst düzeye çıkarmalarına olanak tanıyor.</description>
+    </item>
+    <item>
+      <title>PiKVM ihtiyaç mı?</title>
+      <link>https://ciddikedi.com/posts/pikvm/</link>
+      <pubDate>Wed, 29 May 2024 15:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/pikvm/</guid>
+      <description>Giriş Sistem yöneticileri her ne kadar veri merkezlerinden uzaklaşmış olsa da sanal olarak yapılamayan işler için yerinde müdahale etmeye maalesef mecburlar. Bu zorunluluklardan birisi de maalesef cihazların konsol erişimi. Özellikle HP ILO gibi çözümler çözümler uzun süredir sektörde yer alsa da aynı ortamı evinde oluşturmak isteyen biz hobiciler için seçenek çok çok az. Elbette KVM over IP cihazları piyasada bulunuyor ancak fiyatlardan ötürü yanına yaklaşılmıyor. Evimde çeşitli amaçlarla topladığım sunucu olarak çalışan bilgisayar(lar)ı her problem yaşadığımda veya kurulum yapmam gerektiğinde söküp masama getirmek zahmetli olmaya başlamasıyla birlikte çeşitli arayışlarda bulundum.</description>
+    </item>
+    <item>
+      <title>GL.iNet Mango aracılığıyla her yerde güvenli internet</title>
+      <link>https://ciddikedi.com/posts/mango/</link>
+      <pubDate>Wed, 22 May 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/mango/</guid>
+      <description>Giriş Modem veya router aklımıza her zaman yerinden hareket etmeyen, sabit veya antenli cihazları anımsatır. Ev dışında çalışırken kullandığım farklı ağlardan duyduğum şüphe acaba daha küçük bir cihazla kendi güvenilir alanımı yaratabilir miyim düşüncesini aklıma getirdi. İlk başta Raspberry ile bu işi yapmayı planlasam da sonrasında aynı işlevi gören çok daha küçük router&amp;rsquo;lar olduğunu keşfettim. Uzakdoğu menşei GL.iNet markasının üretmiş olduğu modeller tam da benim arayışıma cevap oldu. Marka, Mango isminde model tasarlayarak avuç içi kadar bir router yapmayı başarmış.</description>
+    </item>
+    <item>
+      <title>Lenovo Thinkpad X61 restorasyon hikayesi</title>
+      <link>https://ciddikedi.com/posts/x61/</link>
+      <pubDate>Sat, 11 May 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/x61/</guid>
+      <description>Giriş Merhaba, herkesin anılarında yer alan bir bilgisayar ve tüylerini ürperten jenerik tonlar olmuştur. Benim ilk bilgisayarım ise Pentium II işlemcili bir Thinkpad 600 idi. Emsallerinden farklı, soğuk ve kutu gibi tasarımının yanında alışılmışın dışında Trackpoint&amp;rsquo;e sahip olması onu diğerlerinden ayırıyordu. Bu özel cihaz uzun süre bana hizmet etmiş olsa da kendisinin akıbeti maalesef belli değil. Daha sonrasında onun bende oluşturduğu yer aynı ailenin onlarca modelini deneyimlemeye itti ve neredeyse hayranlık seviyesine ulaştı.</description>
+    </item>
+  </channel>
+</rss>
