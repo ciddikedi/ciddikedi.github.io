@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ciddikedi</title>
+    <link>https://ciddikedi.com/</link>
+    <description>Recent content on ciddikedi</description>
+    <image>
+      <title>ciddikedi</title>
+      <url>https://ciddikedi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ciddikedi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>tr</language>
+    <lastBuildDate>Wed, 14 May 2025 10:38:29 +0300</lastBuildDate>
+    <atom:link href="https://ciddikedi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BitLocker korumasını saniyeler içerisinde kırın!</title>
+      <link>https://ciddikedi.com/posts/tpm/</link>
+      <pubDate>Wed, 14 May 2025 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/tpm/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Her yıl milyarlarca dolar siber güvenlik çözümlerine harcanıyor. Yazılımlar, bulut servisleri, yapay zeka destekli tehdit avcılığı gibi ileri teknolojilerle sistemler korunmaya çalışılıyor ancak tüm bu yüksek teknoloji çözümlerin gölgesinde fiziksel güvenlik çoğu zaman ikinci planda kalıyor. Kişisel olarak ben de kendi önlemlerimi alıyorum. Örneğin; Plajda cep telefonum fark edilmesin diye üzerini havlu ile örtüyorum veya yurtdışı seyahatlerimde pasaport cüzdan gibi değerli eşyaları sırt çantamın arka bölmelerinde saklıyorum. Benim amatör önlemlerim bir yana kişisel verilerimizi içeren teknolojik cihazlarımız istenmeyen ellere geçtiğinde mahremiyeti ve güvenliği sağlamak amacıyla tasarlanmış belli teknolojiler mevcut. Disk şifreleme bunlardan birisi. Microsoft tarafından sunulan BitLocker, her ne kadar diskteki veriyi bitlerine kadar şifrelese de dışardan yapılan fiziksel müdahalelerde nasıl aciz kalıyor beraber inceleyelim.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dialing... 2025 yılına Dial-up ile bağlanıyoruz!</title>
+      <link>https://ciddikedi.com/posts/dialup/</link>
+      <pubDate>Sun, 26 Jan 2025 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/dialup/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Koku alma duyusu ile hafıza arasında güçlü bir ilişki vardır. Geçmişte zihnimize kazınan kokulara yıllar sonra tekrar maruz kaldığımızda o koku ile bağlantılı duygular, hisler ve ortamlar tetiklenir. Buna Proust etkisi denir. İlkel vücudumuzun benzer mekanizması işitme duyusu için de geçerlidir. Beni ise geçmişe götüren şeylerden birisi kuşkusuz artık tarihin tozlu sayfalarında yer alan çevirmeli bağlantı sesi oldu. Bu konuda yalnız olduğumu düşünmüyorum. İnternet ortamında bir kaç tık uzağımızda olan çevirmeli bağlantı sesini daha yakından yeniden deneyimlemek adına gigabit hızların havada uçuştuğu günümüz teknolojisini kenara bırakarak gerçek bir Dial-up bağlantı kurma işine soyundum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PlayStation 2 üzerinde Linux çalıştırmak?</title>
+      <link>https://ciddikedi.com/posts/ps2/</link>
+      <pubDate>Mon, 16 Sep 2024 20:25:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/ps2/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Herkesin hayatında bir noktada mutlaka PlayStation konsolu yer almıştır. Zamanının çok ötesinde olan bu sihirli kutu benim de çocukluk hayallerimi süslüyordu. İçerik ve oyunlara erişimin şimdiye nazaran zor olduğu bu dönemler elimizdeki ile maksimum yetinmeye çalışarak azami keyif alıyorduk. Her oyunumu tüm detaylarıyla inceleyerek defalarca bitirmeme sebep olan da buydu. En çok oynadığım PlayStation 2 oyunları ise sırasıyla; Ratchet and Clank, Need for Speed Underground 2 ve Winning Eleven 8 oldu. Şimdi ise bu konsolu bir meydan okumanın sonucu aylarca araştırma ve onlarca deneme yanılma yaparak Linux işletim sistemli makineye dönüştürdüm.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Synology DS423&#43; incelemesi</title>
+      <link>https://ciddikedi.com/posts/ds423plus/</link>
+      <pubDate>Sun, 23 Jun 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/ds423plus/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Verinin önemi konusunda herkes hemfikirdir. Klişe olan bu söz özellikle benim gibi disk arızaları sebebiyle defalarca veri kaybeden kullanıcılar için vurgulamak istediğim noktayı açıkça ortaya çıkarıyor. Bu ve benzer problemlere karşı amatör olarak ikinci bir konuma yedeklerimi almaya başlasam da verilerin büyüklüğü ve karmaşıklığı arttıkça kontrol edilemez noktaya gelmeye başladı. Tüm bu işleri çok daha basit ve her yerden ulaşılabilecek şekilde yapmak için NAS kutularına merak saldım. Çöp olarak nitelendireceğim Zyxel ve Netgear (üzgünüm sevgili marka temsilcileri) kutuları deneyimledikten sonra bu işin Apple&amp;rsquo;ı diyebileceğim Synology cihazlara yöneldim. Markanın Apple&amp;rsquo;a benzetimini minimum donanımdan maksimum yazılım verimine odaklandıkları için yapıyorum. Bu sihirli kutu; verilerinizi çok iyi şekilde koruyor, düzenliyor ve her yerden erişilebilir hale getirerek kişisel bir bulut gibi davranıyor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Libreboot ile özgürlüğün sınırlarını zorlamak</title>
+      <link>https://ciddikedi.com/posts/libreboot/</link>
+      <pubDate>Wed, 05 Jun 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/libreboot/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Daha fazla açık kaynak kodlu ve özgür olma yarışının son noktası ne olabilir? Günümüzde bilgisayarlarımızın güvenliği ve özgürlüğü, teknoloji kullanıcıları için her zamankinden daha büyük bir önem taşıyor. Çoğu zaman bilgisayarların BIOS yazılımları kapalı kaynak kodlu ve üreticilerin kontrolü altında oluyor. Bu bağımlılık hem güvenlik açıkları hem de gizlilik endişeleri yaratabiliyor. İşte bu noktada Libreboot devreye giriyor. Libreboot, özgür ve açık kaynaklı bir BIOS yazılımı alternatifidir. Kullanıcılara tam kontrol, şeffaflık ve güvenlik sunarak bilgisayarlarının potansiyelini en üst düzeye çıkarmalarına olanak tanıyor. Bu yazıda, Libreboot&amp;rsquo;un neden önemli olduğunu ve Lenovo ThinkPad X200s model bilgisayarıma nasıl kurulum yaptığımı paylaşacağım.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PiKVM ihtiyaç mı?</title>
+      <link>https://ciddikedi.com/posts/pikvm/</link>
+      <pubDate>Wed, 29 May 2024 15:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/pikvm/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Sistem yöneticileri her ne kadar veri merkezlerinden uzaklaşmış olsa da sanal olarak yapılamayan işler için yerinde müdahale etmeye maalesef mecburlar. Bu zorunluluklardan birisi de maalesef cihazların konsol erişimi. Özellikle HP ILO gibi çözümler çözümler uzun süredir sektörde yer alsa da aynı ortamı evinde oluşturmak isteyen biz hobiciler için seçenek çok çok az. Elbette KVM over IP cihazları piyasada bulunuyor ancak fiyatlardan ötürü yanına yaklaşılmıyor. Evimde çeşitli amaçlarla topladığım sunucu olarak çalışan bilgisayar(lar)ı her problem yaşadığımda veya kurulum yapmam gerektiğinde söküp masama getirmek zahmetli olmaya başlamasıyla birlikte çeşitli arayışlarda bulundum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GL.iNet Mango aracılığıyla her yerde güvenli internet</title>
+      <link>https://ciddikedi.com/posts/mango/</link>
+      <pubDate>Wed, 22 May 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/mango/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Modem veya router aklımıza her zaman yerinden hareket etmeyen, sabit veya antenli cihazları anımsatır. Ev dışında çalışırken kullandığım farklı ağlardan duyduğum şüphe acaba daha küçük bir cihazla kendi güvenilir alanımı yaratabilir miyim düşüncesini aklıma getirdi. İlk başta Raspberry ile bu işi yapmayı planlasam da sonrasında aynı işlevi gören çok daha küçük router&amp;rsquo;lar olduğunu keşfettim. Uzakdoğu menşei GL.iNet markasının üretmiş olduğu modeller tam da benim arayışıma cevap oldu. Marka, Mango isminde model tasarlayarak avuç içi kadar bir router yapmayı başarmış.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lenovo Thinkpad X61 restorasyon hikayesi</title>
+      <link>https://ciddikedi.com/posts/x61/</link>
+      <pubDate>Sat, 11 May 2024 10:38:29 +0300</pubDate>
+      <guid>https://ciddikedi.com/posts/x61/</guid>
+      <description>&lt;h2 id=&#34;giriş&#34;&gt;Giriş&lt;/h2&gt;
+&lt;p&gt;Merhaba, herkesin anılarında yer alan bir bilgisayar ve tüylerini ürperten jenerik tonlar olmuştur. Benim ilk bilgisayarım ise Pentium II işlemcili bir Thinkpad 600 idi. Emsallerinden farklı, soğuk ve kutu gibi tasarımının yanında alışılmışın dışında Trackpoint&amp;rsquo;e sahip olması onu diğerlerinden ayırıyordu. Bu özel cihaz uzun süre bana hizmet etmiş olsa da kendisinin akıbeti maalesef belli değil. Daha sonrasında onun bende oluşturduğu yer aynı ailenin onlarca modelini deneyimlemeye itti ve neredeyse hayranlık seviyesine ulaştı. Aktif olarak elimde mevcut Thinkpad envanteri ise aşağıdaki şekilde;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>hakkımda</title>
+      <link>https://ciddikedi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ciddikedi.com/about/</guid>
+      <description>&lt;p&gt;Merhabalar,&lt;br&gt;
+&lt;br&gt;
+Alışılmışın dışında, herkesin zaten bildiği konulardan ziyade daha merak uyandıran ve okurun ilgisini sürekli zinde tutacak içerikler oluşturmayı hedeflediğim kişisel blog sayfamda sizleri ağırlamaktan büyük bir keyif ve mutluluk duyuyorum. Profesyonel hayatta çoğunlukla karşılığı olmayan paylaşımların kitlesini genellikle benim gibi teknoloji meraklıları ve hobi severleri hedefleyerek belirliyorum. Bu içerikleri hazırlarken büyük emek ve vakit harcarken, gösterilen geri bildirim ve etkileşimler öncelikli motivasyon kaynağım oluyor. Her türlü olumlu, olumsuz ve eleştirel konularda bana ulaşmaktan lütfen çekinmeyin.&lt;br&gt;
+&lt;br&gt;
+Sevgilerle.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
